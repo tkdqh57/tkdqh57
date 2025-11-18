@@ -39,9 +39,9 @@ Here are some ideas to get you started:<div>
 
 
 
-
+  ### SangBo's Blog
+  https://velog.io/@tkdqh57/posts
   
-
   
 </div>
 
