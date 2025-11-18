@@ -1,5 +1,6 @@
 ## Hello, I'm back-end developer Sangbo 👋
-![20200720_002253](https://github.com/user-attachments/assets/c574c2f1-ef1e-42f2-a1c8-965d9c9075b2)
+![1588582374966](https://github.com/user-attachments/assets/ec84c0d4-e6f4-4d26-8ddb-34b91253a5ad)
+
 
 <!--
 **tkdqh57/tkdqh57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
