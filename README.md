@@ -38,11 +38,15 @@ Here are some ideas to get you started:<div>
   <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/89f2cf6b-d22a-4b3d-b864-5cc96647b20d" />
 
 
-
   ### SangBo's Blog
-  https://velog.io/@tkdqh57/posts
-  
-  
+
+<a href="https://velog.io/@tkdqh57/posts">
+  <img src="https://github.com/user-attachments/assets/7992405c-3b71-4b7c-abe9-15efa1e21cb6" alt="velog" width="101" height="28">
+</a>
+
+
+
+ 
 </div>
 
 
